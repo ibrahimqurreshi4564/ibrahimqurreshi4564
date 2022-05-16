@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ibrahimqurreshi
+- 👋 Hi, I’m ibrahimqurreshi
 - 👀 I’m interested in gain more knowledge , and never stop learning 
 - 🌱 I’m currently learning Computer Science at Leney college 
 - 💞️ I’m looking to collaborate on Ideas and projects with Team 
